@@ -3,8 +3,8 @@ import type { Config } from './types';
 export default {
   version: '1.0',
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
+  name: 'Se Chip',
+  shortName: 'Se Chip',
   description: 'My blog description goes here...',
   direction: 'auto',
   language: 'en-US',
